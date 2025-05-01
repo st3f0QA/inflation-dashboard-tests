@@ -25,5 +25,9 @@ npx cypress open
 
 ✅ Detailed view click  -  Simulates pie chart click and confirms detailed country view loads
 
+## Reporting
+Mochawesome is used for reporting the test. The report is saved as .json and then changed to .html.
+The report can be found at **cypress\reports\mochawesome.html** --> https://github.com/st3f0QA/inflation-dashboard-tests/blob/main/cypress/reports/mochawesome.html
 
+Bug report is created and can be found in the /issues tab --> https://github.com/st3f0QA/inflation-dashboard-tests/issues/1
 
