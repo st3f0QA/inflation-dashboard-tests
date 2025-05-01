@@ -15,7 +15,6 @@ To open the tests in headed mode:
 npx cypress open
 
 ## Test Coverage
-Test Name	Description
 ✅ Load and compare country data  -	Verifies GDP, health, import/export against expected values
 
 ✅ Pick a country from health table  -  Clicks on health chart entry and checks table/chart alignment
