@@ -1,0 +1,66 @@
+[
+    {
+        "country": "Iraq",
+        "inflation":"16,60",
+        "gdp": "41,800",
+        "health":"11,60",
+        "export":"42,30",
+        "import":"37,10"
+    },
+    {
+        "country": "Nigeria",
+        "inflation":"104,00",
+        "gdp": "2 330",
+        "health":"5,07",
+        "export":"25,30",
+        "import":"17,40"
+    },
+    {
+        "country": "Venezuela",
+        "inflation":"45,90",
+        "gdp": "13 500" ,
+        "health":"4,91",
+        "export":"28,50",
+        "import":"17,60"
+    },
+    {
+        "country": "Mongolia",
+        "inflation":"39,20",
+        "gdp": "2 650" ,
+        "health":"5,44",
+        "export":"46,70",
+        "import":"56,70"
+    },
+    {
+        "country": "Saudi Arabia",
+        "inflation":"17,20",
+        "gdp": "19 300" ,
+        "health":"4,29",
+        "export":"49,60",
+        "import":"33,00"
+    },
+    {
+        "country": "Sierra Leone",
+        "inflation":"17,20",
+        "gdp": "399" ,
+        "health":"13,10",
+        "export":"16,80",
+        "import":"34,50"
+    },
+    {
+        "country": "Gabon",
+        "inflation":"16,60",
+        "gdp": "8750" ,
+        "health":"3,50",
+        "export":"57,70",
+        "import":"18,90"
+    },
+    {
+        "country": "Ghana",
+        "inflation":"16,60",
+        "gdp": "1310" ,
+        "health":"5,22",
+        "export":"29,50",
+        "import":"45,90"
+    }
+]
