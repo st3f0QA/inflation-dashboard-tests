@@ -52,6 +52,7 @@ const dashboard = new DashboardPage()
             const desiredCountry = `path[aria-label*=${targetCountry}]` 
             cy.get(desiredCountry).should('exist').click({force:true})
             cy.get(dashboard.highlightedCountryInTable).contains(targetCountry).should('exist');
+            cy.wait(1000)
             dashboard.scrollAndFindCountry(targetCountry)
             cy.get('@countryData').then((actualData) => {
               cy.get(dashboard.tables).eq(1).should('contain',actualData.gdp)
